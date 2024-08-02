@@ -1,3 +1,4 @@
+![logo](https://github.com/SUBHADEEP1710/SUBHADEEP1710/blob/master/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Subhadeep Chakraborty</h1>
 <h3 align="center">I am a Frontend Developer, a Data Analyst & an ML Enthusiast.</h3>
 
